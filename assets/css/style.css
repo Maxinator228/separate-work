@@ -12,6 +12,13 @@ h2{
     color: #000000;
 }
 
+.btn:hover{
+    color: #331111;
+    background-color: #DD9428;
+    transition: 500ms;
+    cursor: pointer;
+}
+
 .wrapper{
     width: 1676px;
     margin: 0 auto;
@@ -90,14 +97,12 @@ nav a:hover{
 }
 
 .main .container .btn{
-    font-weight: 600;
     font-size: 20px;
-    color: #331111;
+    color: #FFFFFF;
     width: 335px;
     height: 75px;
-    background-color: #DD9428;
+    border: 2px solid #DD9428;
     border-radius: 38px;
-    
 }
 
 .main .container .box{
@@ -201,7 +206,7 @@ nav a:hover{
 .tours-watch .btn{
     font-weight: 600;
     font-size: 20px;
-    color: #DD9428;
+    color: #331111;
     width: 275px;
     height: 75px;
     border: 2px solid #DD9428;
@@ -275,7 +280,7 @@ nav a:hover{
     font-size: 20px;
     color: #331111;
     height: 75px;
-    background: #DD9428;
+    border: 2px solid #DD9428;
     border-radius: 38px;
     margin-top: 25px;
 }
@@ -364,7 +369,7 @@ nav a:hover{
 .reviews-comments .btn{
     font-weight: 600;
     font-size: 20px;
-    color: #DD9428;
+    color: #331111;
     width: 275px;
     height: 75px;
     border: 2px solid #DD9428;
