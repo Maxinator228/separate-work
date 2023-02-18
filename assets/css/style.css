@@ -257,8 +257,7 @@ nav a:hover{
     font-weight: 500;
     font-size: 20px;
     color: #B7C3CC;
-    width: 283px;
-    height: 75px;
+    padding: 25px 25px;
     border: 2px solid #CED8DF;
     border-radius: 38px;
     
@@ -269,11 +268,11 @@ nav a:hover{
     font-weight: 500;
     font-size: 20px;
     color: #B7C3CC;
-    width: 283px;
-    height: 75px;
+    
     border: 2px solid #CED8DF;
     border-radius: 38px;
     margin-top: 20px;
+    padding: 25px 25px;
  
 }
 
